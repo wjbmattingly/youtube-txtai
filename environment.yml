@@ -1,0 +1,4 @@
+name: txtai
+dependencies:
+  - python=3.7
+  - txtai
